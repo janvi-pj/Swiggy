@@ -1,0 +1,12 @@
+The necessary Python packages used in the provided code are:
+
+requests: This package is used to send HTTP requests to the Swiggy API and fetch menu data.
+
+csv: This package is used to work with CSV files, specifically for reading from and writing to CSV files.
+
+sys: This module provides access to some variables used or maintained by the Python interpreter and functions that interact with the interpreter. In this script, sys.argv is used to access command-line arguments.
+
+These packages are essential for making HTTP requests, handling CSV files, and interacting with command-line arguments in the provided script. You can install them using pip if you haven't already:
+
+
+pip install requests
